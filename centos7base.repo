@@ -1,0 +1,5 @@
+[centos7base]
+name=centos7base
+baseurl=http://mirror.ox.ac.uk/sites/mirror.centos.org/7.1.1503/os/x86_64/Packages/
+gpgcheck=0
+enabled=1
